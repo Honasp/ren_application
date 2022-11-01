@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557533097582",
+    "project_id": "ren-application-3f439",
+    "storage_bucket": "ren-application-3f439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557533097582:android:b969ad952c2a8ee163407f",
+        "android_client_info": {
+          "package_name": "com.example.ren_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557533097582-r2u8g43g21uo25vq4uj5i41mm9i0tjs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-qV2V7wMXmyXnv259m5zIOnwUxSMpP1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557533097582-r2u8g43g21uo25vq4uj5i41mm9i0tjs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
